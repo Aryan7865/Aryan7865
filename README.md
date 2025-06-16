@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Aryan Shirbhate <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
- <a><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;ML%20Enthusiast;Competitive%20Programmer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+ <a><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
 <h4 align="center">I am a third year student at Indian Institute of Technology, Madras pursuing Dual Degree in the department of Biotechnology. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and a social person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
